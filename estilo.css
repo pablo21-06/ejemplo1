@@ -1,0 +1,25 @@
+.pie{
+    background-image: url(./img2.jpg);
+    background-repeat: no-repeat; 
+       background-size: 2000px 1000px;
+}
+header{
+    text-align: center;
+}
+body{
+    color: white;
+}
+div{
+    text-align: right center;
+    direction: ltr;
+}
+p{
+    text-align: justify center;
+    direction: ltr;
+}
+p{
+    
+    text-align: right center;
+    direction: ltr;
+
+}
